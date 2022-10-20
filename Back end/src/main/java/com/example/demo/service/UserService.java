@@ -31,31 +31,4 @@ public class UserService {
         userRepo.save(modelMapper.map(userDTO, User.class));
         return userDTO;
     }
-
-    public UserDTO updateUser(UserDTO userDTO) {
-        userRepo.save(modelMapper.map(userDTO, User.class));
-        return userDTO;
-    }
-
-    public UserDTO deleteUser(UserDTO userDTO) {
-        userRepo.delete(modelMapper.map(userDTO, User.class));
-        return userDTO;
-    }
-
-    public List<UserDTO> getAllUser() {
-        List<User> all = userRepo.findAll();
-
-        return modelMapper.map(all, new TypeToken<List<UserDTO>>() {
-        }.getType());
-    }
-    public UserDTO getUserById(String id){
-        return modelMapper.map(userRepo.getUserByUserID(id),UserDTO.class);
-    }
-    public UserDTO getUserByIdAndAddress(String id , String address){
-        return modelMapper.map(userRepo.getUserByUserIdAndAddress(id,address),UserDTO.class);
-    }
-    public int updateUserNameById(String name , String id){
-        return userRepo.updateUserNameById(name,id);
-    }
-
 }
