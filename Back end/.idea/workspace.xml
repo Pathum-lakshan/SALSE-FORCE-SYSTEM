@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b82d3eac-ba26-464b-9bf0-69d9fa173bde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Front End/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BACK END.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front End/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Front End/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Front end/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Front end/.idea/Front End.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Front end/.idea/git_toolbox_prj.xml" beforeDir="false" />
@@ -201,7 +204,7 @@
       <change beforePath="$PROJECT_DIR$/../Front end/images/work_7_a_md.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Front end/images/work_8_md.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Front end/images/work_9_a_md.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Front end/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front end/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Front end/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Front end/js/scripts-dist.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Front end/js/scripts.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Front end/js/vendor/ScrollMagic.min.js" beforeDir="false" />
@@ -447,6 +450,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -505,7 +509,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666224641535</updated>
       <workItem from="1666224646862" duration="1354000" />
-      <workItem from="1666260942929" duration="4693000" />
+      <workItem from="1666260942929" duration="5064000" />
     </task>
     <servers />
   </component>
