@@ -14,6 +14,6 @@ import javax.persistence.Id;
 public class User {
     @Id
     private int id;
-    private String name;
-    private String address;
+    private String name , email;
+    private String password;
 }
